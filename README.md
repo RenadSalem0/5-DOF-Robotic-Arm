@@ -4,9 +4,7 @@ This project is a **3D model of a 5 Degrees of Freedom (DOF) Robotic Arm** creat
 
 ## 🛠 Tool
 - 💻 Tinkercad (3D Design)
-
-## 🎯 Goal
-Design a robotic arm with five realistic, movable joints.
+---
 
 ## ⚙️ Degrees of Freedom
 1. Base rotation  
