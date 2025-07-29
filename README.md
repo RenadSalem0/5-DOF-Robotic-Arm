@@ -5,14 +5,13 @@ This project is a **3D model of a 5 Degrees of Freedom (DOF) Robotic Arm** creat
 ## 🛠 Tool
 - 💻 Tinkercad (3D Design)
 ---
-
 ## ⚙️ Degrees of Freedom
 1. Base rotation  
 2. Shoulder movement  
 3. Elbow bend  
 4. Wrist articulation  
 5. Gripper open/close  
-
+---
 ## 🖼 Preview
 ![Robotic Arm Preview](RoboticArm.png)  
 
